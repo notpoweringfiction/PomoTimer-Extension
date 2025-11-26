@@ -51,3 +51,6 @@ All configuration is done through commands
 - Configurable work session durations
 - Status bar item
 - Work-to-break automatic transitions
+
+
+Author: Бекренев Георгий Александрович M3101
